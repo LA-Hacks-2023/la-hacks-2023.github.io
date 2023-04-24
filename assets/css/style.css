@@ -517,7 +517,7 @@ section {
 .about {
   background: #005587;
   background-size: cover;
-  padding: 60px 0;
+  padding: 0px 0;
   position: relative;
   color: #fff;
 }
@@ -1135,7 +1135,7 @@ section {
   margin-right: 4px;
   border-radius: 5px;
   text-align: center;
-  width: 36px;
+  width: 108px;
   height: 36px;
   transition: 0.3s;
 }
